@@ -134,10 +134,6 @@ def game_loop():
         arcade.draw_text(f"{Letters_com_1}", (bubble_one_x - bubble_one_radius + 25), (bubble_one_y - 25), arcade.color.BLACK_LEATHER_JACKET, 25)
         arcade.draw_text(f"{Letters_com_3}", (bubble_three_x - bubble_three_radius + 25), (bubble_three_y - 25), arcade.color.BLACK_LEATHER_JACKET, 25)
         arcade.draw_text(f"{Letters_com_2}", (bubble_two_x - bubble_two_radius + 25), (bubble_two_y - 25), arcade.color.BLACK_LEATHER_JACKET, 25)
-    # Loading Screen
-    # Bubble
-
-    # Bubble
 
 
 @window.event
